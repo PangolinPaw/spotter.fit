@@ -1,7 +1,7 @@
 <!-- Favicon -->
-<link rel="shortcut icon" type="image/ico" href="/media/general/icon.ico"/>
+<link rel="shortcut icon" type="image/ico" href="icon.ico"/>
 <!-- Styles -->
-<link rel="stylesheet" type="text/css" href="style/main.css">
+<link rel="stylesheet" type="text/css" href="main.css">
 
 <!-- Icon font -->
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/solid.css" integrity="sha384-Rw5qeepMFvJVEZdSo1nDQD5B6wX0m7c5Z/pLNvjkB14W6Yki1hKbSEQaX9ffUbWe" crossorigin="anonymous">
